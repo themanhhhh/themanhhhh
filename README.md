@@ -30,5 +30,4 @@ I'm **Thế Mạnh**, currently working on a **blockchain project**. I'm skilled
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themanhhhh&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
